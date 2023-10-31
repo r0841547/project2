@@ -5,3 +5,8 @@
 .navbar-brand {
     color: white;
 }
+
+.carousel-caption{
+    background-color: white;
+    color: black;
+}
