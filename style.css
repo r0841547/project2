@@ -10,3 +10,9 @@
     background-color: white;
     color: black;
 }
+
+.img-fluid{
+    width: 30%;
+    float: left;
+    position: relative;
+}
